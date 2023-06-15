@@ -27,15 +27,12 @@ Projects in this repository primarily make use of the following technologies:
 - Numpy
 - Matplotlib and Seaborn
 
-  ## Algorithms
-  - Deep Learning
-  - K-Nearest Neighbour
+## Algorithms
+- Deep Learning
+- K-Nearest Neighbour
 
 ## Contributing
 Although this repository primarily serves as a personal record of my learning journey, contributions or suggestions are welcomed. Feel free to open an issue or submit a pull request.
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you have any questions or would like to discuss these projects further, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland-07a785155/).
