@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 ## About
-Welcome to my Machine Learning Projects repository! This repository is dedicated to my ongoing journey in the field of machine learning. It serves as a compilation of various projects that I have completed, ranging from smaller, single-notebook projects to more complex endeavors. While larger projects will have their own dedicated repositories, you'll find simpler projects right here, each in its own directory for easy navigation. This is a work in progress, I have more experience with computer vision but I have completed the TensorFlow Developer Certification and there are more machine learning projects in the pipeline!
+This repository is dedicated to my ongoing journey in the field of machine learning. It serves as a compilation of various projects that I have completed, ranging from smaller, single-notebook projects to more complex endeavors. While larger projects will have their own dedicated repositories, you'll find simpler projects right here, each in its own directory for easy navigation. This is a work in progress, I have more experience with computer vision but I have completed the TensorFlow Developer Certification and there are more machine learning projects in the pipeline!
 
 
 ## Technologies
