@@ -24,6 +24,6 @@ Although this repository primarily serves as a personal record of my learning jo
 To Do: Repo structure, project info, upload more projects
 
 ## Contact
-If you have any questions or would like to discuss these projects further, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland-07a785155/).
+If you have any questions or would like to discuss these projects further, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland-07a785155/) or by emailing at [tom_rowland@outlook.com](mailto:tom_rowland@outlook.com)
 
 _(Last updated: 15/06/2023)_
