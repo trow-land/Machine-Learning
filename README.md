@@ -6,7 +6,7 @@ This repository is dedicated to my ongoing journey in the field of machine learn
 ## Projects 
 
 - [House Price Prediction](House-Prices)
-- [Predictive Modelling for Power Plant Energy Output](Predictive Modeling for Energy Output of a Combined Cycle Power Plant)
+- [Predictive Modelling for Power Plant Energy Output](https://github.com/trow-land/Machine-Learning/tree/main/Predictive%20Modeling%20for%20Energy%20Output%20of%20a%20Combined%20Cycle%20Power%20Plant)
 
 
 ## Technologies
