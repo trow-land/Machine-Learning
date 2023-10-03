@@ -80,6 +80,8 @@ Model.fit() was used to train all models on the same dataset.
 
 Only an extremely basic neural network was made for this project and trained for 250 epochs. 
 
+Evaluation was carried out both quantatively and qualitavely with a comparison between models and plots comparing predicted price values and true price values.
+
 ### Metrics
 
 - Mean Squared Error
