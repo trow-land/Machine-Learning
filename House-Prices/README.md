@@ -1,6 +1,5 @@
-# Project Title
+# House Price Prediction
 
-![Project Image](image-link-here)
 
 ## Table of Contents
 
@@ -12,9 +11,7 @@
 6. [Model Architecture](#model-architecture)
 7. [Training and Evaluation](#training-and-evaluation)
 8. [Results](#results)
-9. [Future Work](#future-work)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
@@ -67,40 +64,32 @@ The dataset used was downloaded from [kaggle](https://www.kaggle.com/datasets/ya
 
 
 
-## Model Architecture
+## Models Tested
 
-Provide details about the machine learning model used.
+Four models were compared for this task
 
-![Model Architecture](architecture-image-link)
+- Linear Regression
+- Random Forrest Regression
+- Elastic Net Regression 
+- Neural Network Regression
+
 
 ## Training and Evaluation
 
-Discuss how the model was trained and evaluated, what metrics were used, and any techniques to improve performance.
+Model.fit() was used to train all models on the same dataset. 
+
+Only an extremely basic neural network was made for this project and trained for 250 epochs. 
 
 ### Metrics
 
-- Metric 1
-- Metric 2
-- Metric 3
+- Mean Squared Error
+- Mean Absolute Error
+- R2 Error
 
 ## Results
 
-Discuss the results obtained. Use graphs, charts, or tables to supplement.
+Linear Regression = MSE(1754318687330.668), MAE(970043.4039201643), R2(0.6529242642153176)
+Random Forrest Regression = MSE(1942301284715.1775), MAE(1019856.0883792049), R2(0.6157336449891048)
+Elastic Net = MSE(1993228920637.3289), MAE(1004041.6089634736), R2(0.6056580829848317)
+Neural Network = MSE(1766810339382.3682), MAE(971789.9678899082), R2(0.6504529063267421)
 
-| Metric     | Value |
-|------------|-------|
-| Accuracy   | xx%   |
-| Precision  | xx%   |
-| Recall     | xx%   |
-
-## Future Work
-
-Discuss any future improvements or extensions to the project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Mention any contributors, datasets used, or third-party tools or libraries you've relied on.
