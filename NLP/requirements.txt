@@ -1,8 +1,8 @@
 numpy
 pandas
 scikit-learn
-seaborn
 matplotlib
 tensorflow
-json
+wordcloud
 regex
+nltk
