@@ -4,7 +4,7 @@ This folder contains the NLP projects that I have completely throughout my machi
 
 ## Project contents
 
-1. [BBC News Archive](NLP\BBC_News_Archive)
-2. [Tensorflow Developer Certificate Assessments](NLP\TF_Assessments)
-2. [News Article Categorisation]([NLP\News_Article_Categorisation](https://github.com/trow-land/Machine-Learning/tree/main/NLP/News_Article_Categorisation)https://github.com/trow-land/Machine-Learning/tree/main/NLP/News_Article_Categorisation)
+1. [BBC News Archive]([NLP\BBC_News_Archive](https://github.com/trow-land/Machine-Learning/tree/main/NLP/BBC_News_Archive))
+2. [Tensorflow Developer Certificate Assessments]([NLP\TF_Assessments](https://github.com/trow-land/Machine-Learning/tree/main/NLP/TF_Assessments))
+2. [News Article Categorisation](https://github.com/trow-land/Machine-Learning/tree/main/NLP/News_Article_Categorisation)
 
