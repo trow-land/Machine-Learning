@@ -6,5 +6,4 @@ tensorflow==2.10.0
 wordcloud
 regex
 nltk
-transformers
-tensorflow-addons
+seaborn
