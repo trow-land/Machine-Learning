@@ -28,10 +28,17 @@ The total episode rewards were used as the evaluation metric, as the agent learn
 - Version 1 (cartpole_Qlearning_old.py) was a rough version where I was getting to grips with the environment, the problem and the algorithm. Extensive tuning still could only achieve an average improvement of ~+6 episode rewards over the baseline score of 21 rewards per episode - not very good!
 
 - Version 2 ((cartpole_Qlearning.py)) used a the scikit-learn KBinsDiscretizer module to split the continous state space into discrete bins. This allowed the agent to learn far more successfully with the agent regularly meeting the cut-off of 200 rewards per episode after 5000 episodes and achieving an average of +100 over the baseline.
+  
+![training_log](https://github.com/trow-land/Machine-Learning/assets/75323342/f62f97a5-e23f-40d3-8df9-9a5b6bee10a9)
+
+The above figure shows the agents improvement throughout traininng. The exploration decay which dictates the probability of the agent exploiting its knowledge rather than exploring was restricted in the early stage of training to allow the the agent to sufficiently explore and understand its environment.
 
 ## Requirements
-
 - Python 3.10
 - see requirements.txt
+  
+  ![cartpole](https://github.com/trow-land/Machine-Learning/assets/75323342/d0198756-c023-4b41-ac16-a673f18c81f2)
+
+
 
 
