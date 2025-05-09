@@ -14,6 +14,8 @@ The dashboard:
 
 This is intended as a prototype for applications like early-warning systems in aquaculture environments, particularly where lightweight, deployable systems may be built on devices like Raspberry Pi.
 
+![dashboard](https://github.com/trow-land/Data-Science/blob/main/Artemia_count_dashboard/images/dashboard_snapshot.png)
+
 ## Features
 
 - Real-time updating dashboard with line charts and system metrics
@@ -60,7 +62,7 @@ pip install streamlit pandas numpy scikit-learn joblib matplotlib
    joblib.dump(model, 'regression_model.joblib')
    ```
 
-2. Place the model in the same directory as `artemia_dashboard.py` or adjust the path accordingly.
+2. Place the model in the same directory as `artemia_dash.py` or adjust the path accordingly.
 
 3. Launch the dashboard:
 
@@ -87,11 +89,5 @@ You can modify the simulation behaviour in `artemia_dashboard.py` by adjusting:
 
 ## Future Extensions
 
-- Integrate real Raspberry Pi camera and temperature sensor input
-- Connect to a time-series database (e.g. InfluxDB or Firestore)
 - Add image-based object detection (e.g. YOLO or OpenCV-based Artemia counting)
 - Deploy on cloud or edge device with scheduled logging and remote access
-
-## License
-
-This project is released under the MIT License.
