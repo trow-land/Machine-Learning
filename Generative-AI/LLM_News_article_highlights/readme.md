@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on fine-tuning a pre-trained BART large language model to generate concise, one- or two-sentence highlights from CNN and DailyMail news articles. The goal is to improve the model’s ability to summarise lengthy articles while maintaining key information. The project evaluates the performance of the fine-tuned model using the ROUGE metric and compares its generated summaries to human-written highlights.
+This project focuses on fine-tuning a pre-trained BART large language model to generate concise, three or four sentence highlights from CNN and DailyMail news articles. The goal is to improve the model’s ability to summarise lengthy articles while maintaining key information. The project evaluates the performance of the fine-tuned model using the ROUGE metric and compares its generated summaries to human-written highlights.
 
 ## Project Structure
 
