@@ -1,46 +1,69 @@
 # Machine Learning Projects
 
-## About
-This repository is dedicated to my ongoing journey in the field of machine learning. It serves as a compilation of various projects that I have completed, ranging from smaller, single-notebook projects to more complex endeavors. While larger projects will have their own dedicated repositories, you'll find simpler projects right here, each in its own directory for easy navigation. This is a work in progress, I have more experience with computer vision but I have completed the TensorFlow Developer Certification and there are more machine learning projects in the pipeline!
+This repository contains a collection of machine learning projects I've developed as part of my ongoing skill-building and exploration of applied ML techniques. The work spans general supervised learning, NLP, reinforcement learning, and generative AI, with each project structured in its own directory. While some larger or production-focused projects are kept in separate repositories, this repo showcases a broad survey of methods, datasets, and learning objectives.
 
-## Current Focus
-- AWS Certified Cloud Practitioner exam
+---
 
-## General ML Projects 
+## Repository Structure
 
-- [Regression Model Comparison for House Price Prediction ](House-Prices)
-- [Predictive Modelling for Power Plant Energy Output](https://github.com/trow-land/Machine-Learning/tree/main/Predictive%20Modeling%20for%20Energy%20Output%20of%20a%20Combined%20Cycle%20Power%20Plant)
+- `Archived_Projects/` – Older exploratory work, including house price regression and water quality prediction
+- `Artemia_count_dashboard/` – A regression-based dashboard for monitoring Artemia populations
+- `Generative-AI/` – LLM-based projects for summarisation and emotion-aware dialogue
+- `NLP/` – NLP classification and summarisation projects using classical and transformer-based models
+- `Predictive Modeling for Energy Output of a Combined Cycle Power Plant/` – Comparative ML modelling of energy output
+- `Reinforcement_learning/` – Q-learning and DQN implementations, including multi-agent simulations
 
-## [Natural Language Processing](https://github.com/trow-land/Machine-Learning/tree/main/NLP)
+---
 
-- [TensorFlow Developer Assessments](https://github.com/trow-land/Machine-Learning/tree/main/NLP/TF_Assessments)
-- [BBC News Article Classificication](https://github.com/trow-land/Machine-Learning/tree/main/NLP/BBC_News_Archive)
-- [HuffPost News Headline Classification](https://github.com/trow-land/Machine-Learning/tree/main/NLP/News_Article_Categorisation)
+## Featured Projects
 
+### General Machine Learning
+- **[House Price Regression](Archived_Projects/House-Prices)** – Comparison of linear and ensemble models for housing data
+- **[Energy Output Prediction](Predictive Modeling for Energy Output of a Combined Cycle Power Plant)** – Supervised regression with multiple model types and evaluation metrics
 
-## Technologies
-Projects in this repository primarily make use of the following technologies:
-- Python
-- Jupyter Notebook
-- Scikit-Learn
-- Tensorflow and Keras
-- Pandas
-- Numpy
-- Matplotlib and Seaborn
+### NLP
+- **[News Article Classification (BBC & HuffPost)](NLP/News_Article_Categorisation)** – Text vectorisation and transformer-based topic classification
+- **[Summarisation with LLMs](Generative-AI/LLM_News_article_highlights)** – Fine-tuning and prompt-based summarisation of CNN/DailyMail articles
+- **[TF Developer Assessments](NLP/TF_Assessments)** – Coursework for TensorFlow certification, including RNNs and sentiment models
 
-## Algorithms
-- Deep Neural Networks
-- K-Nearest Neighbour
-- Random Forest Regression
-- Linear Regression 
-- Elastic Net
-- Convolutional Neural Networks
-- RNNs/LSTMs for NLP
+### Reinforcement Learning
+- **[Multi-Agent Fox & Rabbit Simulation](Reinforcement_learning/Multi_Agent_RL)** – Q-learning with predator-prey dynamics on a grid
+- **[CartPole Balancing with Q-Learning](Reinforcement_learning/Q-Learning)** – Tabular and visualised reinforcement learning
 
-## Contributing
-Although this repository primarily serves as a personal record of my learning journey, contributions or suggestions are welcomed. Feel free to open an issue or submit a pull request.
+---
 
+## Key Technologies
 
-## Contact
-If you have any questions or would like to discuss these projects further, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-rowland1/) or by emailing at [tom_rowland@outlook.com](mailto:tom_rowland@outlook.com)
+- Python, Jupyter Notebooks
+- Scikit-Learn, XGBoost, TensorFlow, Keras
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- OpenAI APIs, Hugging Face Transformers
+- Streamlit (for dashboards)
+
+---
+
+## Learning Objectives and Focus Areas
+
+- Model evaluation and comparative testing
+- Feature engineering and preprocessing workflows
+- LLM integration and summarisation
+- Time series and forecasting (in development)
+- Reinforcement learning fundamentals and agent simulation
+- NLP pipelines for classification and entity extraction
+
+---
+
+## In Progress / Upcoming
+
+- RF Spectrum classifier and jamming detector
+- LLM-backed code assistant and SQL explainer
+- ViT-based computer vision classification project
+- Model deployment examples (Streamlit, Flask)
+
+---
+
+## Notes
+
+This repository reflects my personal learning journey in machine learning, and code quality may vary between earlier and more recent projects. Suggestions, issues, and pull requests are welcome.
 
