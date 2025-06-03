@@ -21,7 +21,7 @@ A subset of five modulation types was selected for initial experimentation. Prel
 
 Example output (time-domain and constellation plots):
 
-![Modulation Examples](spectrum_plots.png)
+![Modulation Examples](https://github.com/trow-land/Machine-Learning/blob/main/RF_spectrum_analysis/plots/spectrum_plots.png)
 
 ---
 
